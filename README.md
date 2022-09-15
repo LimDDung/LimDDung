@@ -1,8 +1,8 @@
 <h2> 🍊Hi there! </h2>
 
 <span> 💌 Contact : ykh931104@naver.com </span> <br>
-<span> 🔎 UX를 중요시하는 부지런한 소통왕 개발자, 김명지입니다. </span> <br>
-<span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
+<span> 🔎 1 </span> <br>
+<span> 🥕 1 </span>
 
 
 
@@ -23,9 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
 <br/>
-<br/>
-<br/>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDDung&show_icons=true&theme=buefy )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDDung&layout=compact&theme=buefy)
